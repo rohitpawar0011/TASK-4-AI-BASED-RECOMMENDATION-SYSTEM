@@ -56,4 +56,5 @@ Generate Recommendations: The recommend method generates recommendations for a s
 This Java program demonstrates how to build a recommendation system using Apache Mahout. The system loads user preferences from a CSV file, calculates user similarities, identifies user neighborhoods, and generates recommendations. You can extend this program by using more sophisticated algorithms, incorporating additional data, and improving the user interface.
 
 **OUTPUT**
+https://github.com/rohitpawar0011/TASK-4-AI-BASED-RECOMMENDATION-SYSTEM/issues/1#issue-2797691867
 
